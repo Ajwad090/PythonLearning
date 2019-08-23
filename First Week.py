@@ -1,12 +1,17 @@
-#DAY 1 AND DAY 2
+#DAY 1 AND DAY 2 Python comments
+print ("Day 1 and 2 Python Print function and Comments : \n\n")
 #comment
 #print("Hello,World")
 """
 multiline comment is here 
 """
 print("hi")#comment
+
 #####################
-#DAY 3
+print("\n***********************")
+
+#DAY 3 Variables
+print ("\nDay 3 Python Variables : \n\n")
 x = 5
 y = "john"
 print(x)
@@ -23,10 +28,12 @@ print(x)
 x , y, z = "orange","banana" , "cherry"
 print(x+" "+y+" "+z)
 
+
 ##################
 x = y= z = "orange"
 print(x+" "+y+" "+z)
 ##################
+
 
 x="awesome"
 print("python is "+x)
@@ -44,9 +51,14 @@ print(x+y)
 
 x = 5
 y = "john"
-print(x + y)
+#print(x + y)
 
+##################
+print("\n*********************")
 
+#Day 4 Python Numbers
+print ("\nDay 4 Python Numbers : \n\n")
+x = 1
 
 
 
