@@ -1,3 +1,2 @@
 # PythonLearning
-Learning Python with saudidevorg
-First Week each day lesson all in one 'First Week.py' file each lesson will be commented as #Day 1 #Day2 and so on
+each day of the first week lessons all in one python file  'First Week.py' and each lesson will be commented as #Day 1 #Day2 and so on
